@@ -20,7 +20,7 @@
       "outputPath": "/home/vsts/work/1/s/WebApplication1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/vsts/work/1/Nuget/tempNuGet_27.config"
+        "/home/vsts/work/1/Nuget/tempNuGet_28.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -62,7 +62,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.402/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.100/RuntimeIdentifierGraph.json"
       }
     }
   }
