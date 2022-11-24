@@ -14,7 +14,7 @@
         "outputPath": "/home/vsts/work/1/s/WebApplication1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/vsts/work/1/Nuget/tempNuGet_28.config"
+          "/home/vsts/work/1/Nuget/tempNuGet_29.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
